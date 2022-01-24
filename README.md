@@ -17,6 +17,11 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 ![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
 <br>
 
+
+## Resources
+
+https://developers.google.com/calendar/api/v3/reference/freebusy
+
 ## Project Metadata
 
 **Project Status** : (Active, Inactive, Archived)  
